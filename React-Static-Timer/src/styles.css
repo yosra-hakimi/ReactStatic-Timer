@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.time {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  border: 2px solid;
+  border-radius: 20px;
+  color: aqua;
+  background-color: black;
+  margin: 250px;
+}
+.align {
+  display: flex;
+}
+.space {
+  margin-right: 100px;
+}
+p {
+  max-width: max-content;
+}
+.second {
+  margin-right: -10px;
+}
